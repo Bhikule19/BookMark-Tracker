@@ -9,5 +9,5 @@ user.</li>
   <li>Learned how to use JSON and manifest to operate the extension
 in a local device.</li>
 </ul>
-<img src"images/logo.gif">
+<img src="bookmark.gif">
   
